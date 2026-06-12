@@ -1,6 +1,6 @@
-**Análisis de Datos con Dart
+**Análisis de Datos con Dart**
 
-Objetivo del proyecto**
+**Objetivo del proyecto**
 
 El objetivo de este proyecto fue construir una aplicación de consola en Dart capaz de cargar, procesar y analizar datos almacenados en formato JSON, aplicando clases, objetos, funciones, estructuras de datos, Null Safety y generación de reportes básicos.
 
